@@ -1,0 +1,10 @@
+Change Component Comment : Designator=TP_1 Old Comment=TP_3V3 New Comment=TP
+Change Component Comment : Designator=TP_3 Old Comment=TP_3V3RF New Comment=TP
+Change Component Comment : Designator=TP_2 Old Comment=TP_5V New Comment=TP
+Change Component Comment : Designator=TP_BATT_OUT1 Old Comment=TP_BATT_OUT New Comment=TP
+Change Component Comment : Designator=TP_ML_1 Old Comment=TP_ML_1 New Comment=TP
+Change Component Comment : Designator=TP_ML_2 Old Comment=TP_ML_2 New Comment=TP
+Change Component Comment : Designator=TP_MR_1 Old Comment=TP_MR_1 New Comment=TP
+Change Component Comment : Designator=TP_MR_2 Old Comment=TP_MR_2 New Comment=TP
+Change Component Comment : Designator=TP_STAT1 Old Comment=TP_STAT0 New Comment=TP
+Change Component Comment : Designator=TP_VBUS1 Old Comment=TP_VBUS New Comment=TP

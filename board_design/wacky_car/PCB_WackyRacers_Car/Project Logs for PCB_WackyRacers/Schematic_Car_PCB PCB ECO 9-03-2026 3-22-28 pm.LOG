@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=D_N Pin=H2-3
+Removed Pin From Net: NetName=D_P Pin=U1-56
+Removed Pin From Net: NetName=D_N Pin=U1-57
+Added Component: Designator=R1(RESC1608L)
+Add component (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "27R"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC1608L)
+Add component (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "27R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D_P Pin=H2-3
+Added Pin To Net: NetName=D_P Pin=R1-1
+Added Pin To Net: NetName=D_N Pin=R2-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-57
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-56
+Added Net: Name=NetR2_2
+Added Member To Class: ClassName=Schematic_Car_Main Member=Component R1 27R
+Added Member To Class: ClassName=Schematic_Car_Main Member=Component R2 27R

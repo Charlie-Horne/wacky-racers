@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=D_N Pin=H2-2
+Added Pin To Net: NetName=D_N Pin=H2-3
+Added Pin To Net: NetName=D_N Pin=U1-57
+Added Net: Name=D_N
+Added Pin To Net: NetName=D_P Pin=U1-56
+Added Net: Name=D_P
+Added Differential Pair: Name=D

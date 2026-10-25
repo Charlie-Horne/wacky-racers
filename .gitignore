@@ -1,0 +1,10 @@
+*.d
+*.o
+*.map
+*.bin
+build/
+
+History/
+*.PcbDoc.htm
+*.BomDoc.Zip
+*.PcbDoc.Zip

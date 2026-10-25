@@ -1,0 +1,11 @@
+Change Component Designator: Old Designator=TP_3V3 New Designator=TP_1
+Change Component Designator: Old Designator=TP_3V3RF New Designator=TP_3
+Change Component Designator: Old Designator=TP_5V New Designator=TP_2
+Change Component Designator: Old Designator=TP_CSN New Designator=TP_CSN1
+Change Component Designator: Old Designator=TP_DN New Designator=TP_DN1
+Change Component Designator: Old Designator=TP_DP New Designator=TP_DP1
+Change Component Designator: Old Designator=TP_LED New Designator=TP_LED1
+Change Component Designator: Old Designator=TP_MISO New Designator=TP_MISO1
+Change Component Designator: Old Designator=TP_MOSI New Designator=TP_MOSI1
+Change Component Designator: Old Designator=TP_SPCK New Designator=TP_SPCK1
+Change Component Designator: Old Designator=TP_STAT0 New Designator=TP_STAT1

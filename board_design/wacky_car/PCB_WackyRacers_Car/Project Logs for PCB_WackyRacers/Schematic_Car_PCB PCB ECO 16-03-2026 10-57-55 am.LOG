@@ -1,0 +1,4 @@
+Change Component Comment : Designator=P? Old Comment=JA_PIN_Header 3 New Comment=Servo
+Change Component Designator: OldDesignator=Left Motor NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=Right Motor NewDesignator=P2

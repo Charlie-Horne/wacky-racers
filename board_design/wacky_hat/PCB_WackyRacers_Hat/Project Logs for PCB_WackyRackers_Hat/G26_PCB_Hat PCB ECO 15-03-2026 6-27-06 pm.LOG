@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=IDLE_EN Pin=U1-9
+Added Pin To Net: NetName=IDLE_EN Pin=U1-31

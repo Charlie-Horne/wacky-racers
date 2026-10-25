@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=L1-1
+Added Component: Designator=R19(RESC1608L)
+Add component (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_2 Pin=R19-1
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=R19-2
+Added Net: Name=NetL1_1
+Added Member To Class: ClassName=Schematic_Hat_Main Member=Component R19 10R

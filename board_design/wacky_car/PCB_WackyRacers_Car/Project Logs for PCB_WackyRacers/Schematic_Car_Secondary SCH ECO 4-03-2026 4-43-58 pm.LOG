@@ -1,0 +1,6 @@
+Change Component Designator: Old Designator=TP_3V3 New Designator=TP_1
+Change Component Designator: Old Designator=TP_3V3RF New Designator=TP_3
+Change Component Designator: Old Designator=TP_5V New Designator=TP_2
+Change Component Designator: Old Designator=TP_BATT_OUT New Designator=TP_BATT_OUT1
+Change Component Designator: Old Designator=TP_STAT0 New Designator=TP_STAT1
+Change Component Designator: Old Designator=TP_VBUS New Designator=TP_VBUS1

@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=Schematic_Car_Main Member=MT4
+Change Component Footprint: Designator=MT1 Old Footprint=MNT-HOLE_2.6mm_NPTH New Footprint=MNT-HOLE_3.2mm_NPTH
+Change Component Footprint: Designator=MT3 Old Footprint=MNT-HOLE_2.6mm_NPTH New Footprint=MNT-HOLE_3.2mm_NPTH
+Change Component Comment : Designator=MT1 Old Comment=M2.6 NPTH New Comment=M3.2 NPTH
+Change Component Comment : Designator=MT3 Old Comment=M2.6 NPTH New Comment=M3.2 NPTH
+Change component parameters: Designator = "MT1" ("MT1"); Footprint = "MNT-HOLE_2.6mm_NPTH"; UniqueID = "\TFNQJPMQ" ("\TFNQJPMQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Hi-Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "3BV series M3 Clearance"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "price"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "M3.2 NPTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Verify"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "MT3" ("MT3"); Footprint = "MNT-HOLE_2.6mm_NPTH"; UniqueID = "\NOLQBDJW" ("\NOLQBDJW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Hi-Q"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "3BV series M3 Clearance"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "note"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "price"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "M3.2 NPTH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Verify"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MT2(MNT-HOLE_3.2mm_NPTH)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hi-Q"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "3BV series M3 Clearance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "M3.2 NPTH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verify"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Schematic_Car_Main Member=Component MT2 M3.2 NPTH

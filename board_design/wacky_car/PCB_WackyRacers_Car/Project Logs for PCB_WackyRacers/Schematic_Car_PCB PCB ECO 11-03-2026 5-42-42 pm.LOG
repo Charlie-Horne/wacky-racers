@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Member From Class: ClassName=Schematic_Car_Secondary Member=R13
+Removed Member From Class: ClassName=Schematic_Car_Secondary Member=R14
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-6

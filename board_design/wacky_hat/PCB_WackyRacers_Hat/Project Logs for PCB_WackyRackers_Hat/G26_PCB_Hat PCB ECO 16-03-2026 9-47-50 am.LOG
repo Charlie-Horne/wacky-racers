@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SLEEP Pin=U1-33
+Removed Pin From Net: NetName=USB_DETECT Pin=U1-35
+Added Pin To Net: NetName=USB_DETECT Pin=U1-34
+Added Pin To Net: NetName=SLEEP Pin=U1-35

@@ -1,0 +1,13 @@
+{
+    "windowsToolchainEnvCmd": "C:\\toolchain\\toolchain-path.bat",
+    "makeNumJobs": "2",
+    "files.associations": {
+        "*.h": "c"
+    },
+    "C_Cpp.autoAddFileAssociations": false,
+    "files.eol": "\n",
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.intelliSenseEngine": "default",
+    "clangd.enable": false,
+    "makefile.configureOnOpen": false
+}

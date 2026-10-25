@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetDL1_1 Pin=DL1-1
+Removed Pin From Net: NetName=3V3 Pin=DL1-2
+Change Component Designator: OldDesignator=CSN NewDesignator=TP_CSN
+Change Component Designator: OldDesignator=MISO NewDesignator=TP_MISO
+Change Component Designator: OldDesignator=MOSI NewDesignator=TP_MOSI
+Change Component Designator: OldDesignator=SPCK NewDesignator=TP_SPCK
+Added Component: Designator=DL1(LED3MMTH)
+Add component (AddParameter): Name = "Storage Location"; Value = "ECE Store"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1497967"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDL1_1 Pin=DL1-1
+Added Pin To Net: NetName=3V3 Pin=DL1-2
